@@ -1,3 +1,3 @@
 <strong>Netflix Clone</strong>
 <br>
-Dashboard Frontend completed
+Completed with Dashboard frontend.
